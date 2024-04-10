@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @odunsikazeem 
-- 👀 I’m interested in becoming a Full Stack developer
-- 🌱 I’m currently learning Front End Web Development
+- 🌱 I’m a Front-end developer
 - 💞️ I’m looking to collaborate on programming and coding
 - 📫 How to reach me is odunsikazeem@gmail.com
 
